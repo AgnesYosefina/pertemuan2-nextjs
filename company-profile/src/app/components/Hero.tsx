@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const Hero = () => {
   return (
-    <div className="w-full h-[580px]">
+    <div className="w-full h-[580px] bg-yellow-800">
         <div className="grid grid-cols-2 h-full content-center">
             <div className="flex flex-col pl-32 space-y-2">
                 <p className="text-5xl font-bold">HMIF - ITI</p>
